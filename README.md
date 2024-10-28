@@ -23,6 +23,9 @@ Hi there! I’m Niloofar, born and raised in Iran, and I’ve been living in Ber
 ---
 
 ### 🌍 Languages
-- **Deutsch**: Professional Working
-- **Persisch**: Native or Bilingual
-- **Englisch**: Professional Working
+
+| Language   | Proficiency              |
+|------------|--------------------------|
+| Deutsch    | Professional Working     |
+| Persisch   | Native or Bilingual      |
+| Englisch   | Professional Working     |
